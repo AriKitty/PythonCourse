@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cac23d5f-939a-4a53-9938-51fbbcb25d04" name="Default Changelist" comment="" />
+    <list default="true" id="cac23d5f-939a-4a53-9938-51fbbcb25d04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Challenges/Challenge11/caveGame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            <state relative-caret-position="464">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Challenges/Challenge11/caveInitialise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            <state relative-caret-position="576">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -39,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PythonCourse" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -58,7 +66,6 @@
         <option value="$PROJECT_DIR$/Challenges/Challenge2.py" />
         <option value="$PROJECT_DIR$/Basics/While.py" />
         <option value="$PROJECT_DIR$/Basics/Loops/While.py" />
-        <option value="$PROJECT_DIR$/Challenges/Challenge3.py" />
         <option value="$PROJECT_DIR$/Basics/Lists, Ranges, and Tuples/IntroToLists.py" />
         <option value="$PROJECT_DIR$/Challenges/Challenge4.py" />
         <option value="$PROJECT_DIR$/Basics/Lists, Ranges, and Tuples/Iterators.py" />
@@ -92,8 +99,10 @@
         <option value="$PROJECT_DIR$/Basics/Input and Output/recipes.py" />
         <option value="$PROJECT_DIR$/../Desktop/challenge.py" />
         <option value="$PROJECT_DIR$/Challenges/Challenge11.py" />
-        <option value="$PROJECT_DIR$/Challenges/Challenge11/caveInitialise.py" />
         <option value="$PROJECT_DIR$/Challenges/Challenge11/caveGame.py" />
+        <option value="$PROJECT_DIR$/Challenges/Challenge11/caveInitialise.py" />
+        <option value="$PROJECT_DIR$/Challenges/Challenge3.py" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/test.py" />
       </list>
     </option>
   </component>
@@ -123,11 +132,6 @@
               <item name="PythonCourse" type="462c0819:PsiDirectoryNode" />
               <item name="Basics" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Challenges" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -135,9 +139,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543373091956" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543373256180" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -299,7 +303,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="202" y="28" width="1672" height="991" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19540943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -329,21 +332,12 @@
       <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/PythonCourse" />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/Control Flow/While.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="33" column="57" lean-forward="true" selection-start-line="18" selection-end-line="33" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/Challenge3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="120" selection-start-line="25" selection-start-column="120" selection-end-line="25" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Basics/Lists, Ranges, and Tuples/IntroToLists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="496">
@@ -624,19 +618,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/Challenge11/caveGame.py">
+    <entry file="file://$PROJECT_DIR$/Challenges/Challenge11/caveInitialise.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Challenges/Challenge11/caveInitialise.py">
+    <entry file="file://$PROJECT_DIR$/Challenges/Challenge3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="320">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Challenges/Challenge11/caveGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
