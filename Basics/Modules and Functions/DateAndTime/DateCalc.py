@@ -1,12 +1,13 @@
 import time
 from time import monotonic as my_timer
+# from time import perf_counter as my_timer
 import random
 
-# print(time.gmtime(0))
-# print(time.localtime())
-# print(time.time())
+# print(time.gmtime(0))  # prints the epoch time, tuple
+# print(time.localtime())  # prints the local time, tuple
+# print(time.time())  # prints the time since epoch in seconds
 #
-# timeHere = time.localtime()
+# timeHere = time.localtime()  # Named tuple
 # print(timeHere)
 # print("Year: ", timeHere[0], timeHere.tm_year)
 # print("Month: ", timeHere[1], timeHere.tm_mon)

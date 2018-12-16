@@ -1,11 +1,11 @@
 import shelve
 
-# print(dir())
-# # print(dir(__builtins__))
-#
-# for n in dir(__builtins__):
-#     print(n)
+print(dir())
+# print(dir(__builtins__))
 
-# print(dir(shelve))
+for n in dir(__builtins__):
+    print(n)
 
-help(shelve)
+print(dir(shelve))
+
+# help(shelve)
