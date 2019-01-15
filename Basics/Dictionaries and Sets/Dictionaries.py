@@ -4,7 +4,10 @@ fruit = {"orange": "a sweet, orange, citrus fruit",
          "grape": "a small, sweet fruit grown in bunches",
          "lime": "a sour, green citrus fruit"}
 
-# print(fruit)
+
+print(fruit)
+veggies = {'abc': 123}
+print(len(veggies))
 # print(fruit["lemon"])
 # fruit["pear"] = "an odd shaped apple"
 # print(fruit["pear"])

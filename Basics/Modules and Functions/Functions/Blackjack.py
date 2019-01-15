@@ -9,7 +9,7 @@ mainWindow = tkinter.Tk()
 
 def load_images(card_images):
     suits = ['heart', 'club', 'diamond', 'spade']
-    face_cards = ['Jack', 'Queen', 'Ace']
+    face_cards = ['jack', 'queen', 'king']
 
     if tkinter.TkVersion >= 8.6:
         extension = 'png'
@@ -69,5 +69,18 @@ dealer_button = tkinter.Button(button_frame, text='Dealer')
 dealer_button.grid(row=0, column=0)
 player_button = tkinter.Button(button_frame, text='Player')
 player_button.grid(row=0, column=1)
+
+# Load cards
+cards = []
+load_images(cards)
+print(cards)
+
+# Create a new deck of cards and shuffle them
+deck = list(cards)
+random.shuffle(deck)
+
+# Create the list to store the dealer's and player's hands
+dealer_hand =
+
 
 mainWindow.mainloop()

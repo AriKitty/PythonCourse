@@ -30,8 +30,17 @@
 # for line in lines[::-1]:
 #     print(line, end='')
 
-with open("sample.txt", "r") as jabber:
-    lines = jabber.read()
+# with open("sample.txt", "r") as jabber:
+#     lines = jabber.read()
+#
+# for line in lines[::-1]:
+#     print(line)
 
-for line in lines[::-1]:
-    print(line, end='')
+# Overwrite a file, excluding certain lines
+with open("sample2.txt", "r") as file:
+    lines = file.readlines()
+
+with open("sample2.txt", "w") as file:
+    for line in lines:
+        if line != "Ari" and line != "Ari" + "\n":
+            file.write(line)
