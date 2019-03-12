@@ -2,8 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cac23d5f-939a-4a53-9938-51fbbcb25d04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Random/BookCalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/Blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/import_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Modules and Functions/filesAndDirectories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Modules and Functions/scope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Modules and Functions/spam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/OOP/oop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/Blackjack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/10_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/10_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/10_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/10_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/10_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/10_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/10_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/10_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/1_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/1_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/1_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/1_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/1_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/1_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/1_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/1_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/2_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/2_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/2_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/2_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/2_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/2_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/2_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/2_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/3_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/3_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/3_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/3_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/3_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/3_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/3_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/3_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/4_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/4_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/4_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/4_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/4_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/4_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/4_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/4_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/5_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/5_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/5_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/5_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/5_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/5_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/5_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/5_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/6_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/6_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/6_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/6_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/6_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/6_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/6_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/6_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/7_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/7_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/7_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/7_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/7_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/7_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/7_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/7_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/8_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/8_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/8_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/8_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/8_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/8_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/8_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/8_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/9_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/9_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/9_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/9_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/9_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/9_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/9_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/9_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/Changelog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/NEWS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/black_joker.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/black_joker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/jack_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/jack_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/jack_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/jack_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/jack_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/jack_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/jack_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/jack_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/king_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/king_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/king_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/king_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/king_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/king_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/king_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/king_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/queen_club.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/queen_club.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/queen_diamond.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/queen_diamond.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/queen_heart.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/queen_heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/queen_spade.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/queen_spade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/Modules and Functions/Functions/cards/red_joker.png" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/red_joker.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,22 +82,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/Functions/Blackjack.py">
+        <entry file="file://$PROJECT_DIR$/Basics/OOP/oop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-              <folding>
-                <element signature="e#163#898#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="48">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Random/BookCalc.py">
+        <entry file="file://$PROJECT_DIR$/../.IdeaIC2018.3/system/python_stubs/-1338941227/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="17" selection-end-column="47" />
+            <state relative-caret-position="302">
+              <caret line="1066" column="8" selection-start-line="1066" selection-start-column="8" selection-end-line="1066" selection-end-column="8" />
+              <folding>
+                <element signature="e#37478#37517#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,14 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Basics/Game.py" />
-        <option value="$PROJECT_DIR$/Challenges/Challenge8.py" />
-        <option value="$PROJECT_DIR$/Basics/Control Flow/ContinueBreakElse.py" />
-        <option value="$PROJECT_DIR$/Basics/Dictionaries and Sets/Sets.py" />
-        <option value="$PROJECT_DIR$/Challenges/Challenge9.py" />
-        <option value="$PROJECT_DIR$/Basics/Input and Output/ScratchPad.py" />
-        <option value="$PROJECT_DIR$/Basics/Input and Output/writing.py" />
-        <option value="$PROJECT_DIR$/Challenges/Challenge10.py" />
         <option value="$PROJECT_DIR$/Basics/Input and Output/binary.py" />
         <option value="$PROJECT_DIR$/Basics/Input and Output/pickling.py" />
         <option value="$PROJECT_DIR$/Basics/Input and Output/shlve.py" />
@@ -92,7 +151,6 @@
         <option value="$PROJECT_DIR$/Basics/Modules and Functions/Functions/Functions.py" />
         <option value="$PROJECT_DIR$/Basics/Modules and Functions/Functions/morefunct.py" />
         <option value="$PROJECT_DIR$/Basics/Lists, Ranges, and Tuples/IntroToLists.py" />
-        <option value="$PROJECT_DIR$/Basics/Modules and Functions/Functions/Blackjack.py" />
         <option value="$PROJECT_DIR$/Basics/Input and Output/sample.txt" />
         <option value="$PROJECT_DIR$/Basics/Input and Output/fileio.py" />
         <option value="$PROJECT_DIR$/Basics/Input and Output/sample2.txt" />
@@ -102,6 +160,15 @@
         <option value="$PROJECT_DIR$/Basics/Modules and Functions/DateAndTime/DateCalc.py" />
         <option value="$PROJECT_DIR$/Basics/Dictionaries and Sets/Dictionaries.py" />
         <option value="$PROJECT_DIR$/Random/BookCalc.py" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/Functions/Blackjack.py" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/Functions/import_test.py" />
+        <option value="$PROJECT_DIR$/Basics/BlackJack/import_test.py" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/Projects/import_test.py" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/Projects/Blackjack.py" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/scope" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/filesAndDirectories.py" />
+        <option value="$PROJECT_DIR$/Basics/Modules and Functions/spam.py" />
+        <option value="$PROJECT_DIR$/Basics/OOP/oop.py" />
       </list>
     </option>
   </component>
@@ -111,10 +178,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="221" />
-    <option name="y" value="31" />
-    <option name="width" value="1672" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="168" />
+    <option name="y" value="48" />
+    <option name="width" value="1756" />
     <option name="height" value="991" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -141,19 +208,13 @@
               <item name="PythonCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCourse" type="462c0819:PsiDirectoryNode" />
               <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="Modules and Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="BlackJack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCourse" type="462c0819:PsiDirectoryNode" />
               <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="Modules and Functions" type="462c0819:PsiDirectoryNode" />
-              <item name="Functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Random" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,21 +224,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549326493941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552360976916" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\relli\PythonCourse\Basics\Input and Output" />
-      <recent name="C:\Users\relli\PythonCourse\Basics\Modules and Functions\Tkinter" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\relli\PythonCourse\Basics\Modules and Functions\Projects" />
+      <recent name="C:\Users\relli\PythonCourse\Basics\BlackJack" />
       <recent name="C:\Users\relli\PythonCourse\Basics\Modules and Functions\Functions" />
       <recent name="C:\Users\relli\PythonCourse\Basics\Modules and Functions\DateAndTime" />
       <recent name="C:\Users\relli\PythonCourse\Basics\Modules and Functions\Timezones" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\relli\PythonCourse\Basics\Input and Output" />
+      <recent name="C:\Users\relli\PythonCourse\Basics\Modules and Functions\Tkinter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -192,91 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BookCalc">
-    <configuration name="BookCalc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Random" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random/BookCalc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DateCalc" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Modules and Functions/DateAndTime" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Modules and Functions/DateAndTime/DateCalc.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Dictionaries and Sets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Dictionaries and Sets/Dictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Variables and Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Variables and Strings/Variables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.oop">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python" singleton="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,7 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fileio" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="filesAndDirectories" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,11 +285,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Input and Output" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Modules and Functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Input and Output/fileio.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Modules and Functions/filesAndDirectories.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="import_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Modules and Functions/Projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Modules and Functions/Projects/import_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/OOP/oop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Modules and Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Modules and Functions/scope" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\relli\venv\Python3.7\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics/Modules and Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Modules and Functions/spam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,19 +383,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.fileio" />
-      <item itemvalue="Python.Variables" />
-      <item itemvalue="Python.DateCalc" />
-      <item itemvalue="Python.Dictionaries" />
-      <item itemvalue="Python.BookCalc" />
+      <item itemvalue="Python.import_test (1)" />
+      <item itemvalue="Python.scope" />
+      <item itemvalue="Python.filesAndDirectories" />
+      <item itemvalue="Python.spam" />
+      <item itemvalue="Python.oop" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BookCalc" />
-        <item itemvalue="Python.Dictionaries" />
-        <item itemvalue="Python.DateCalc" />
-        <item itemvalue="Python.Variables" />
-        <item itemvalue="Python.fileio" />
+        <item itemvalue="Python.oop" />
+        <item itemvalue="Python.spam" />
+        <item itemvalue="Python.filesAndDirectories" />
+        <item itemvalue="Python.scope" />
+        <item itemvalue="Python.import_test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -350,35 +413,40 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="221" y="31" width="1672" height="991" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.235732" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="DB Browser" order="7" />
+      <window_info id="Project Explorer" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32983682" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32983682" />
+      <window_info anchor="bottom" id="Terminal" order="6" side_tool="true" weight="0.33566433" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50062037" side_tool="true" weight="0.2948718" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49937966" weight="0.23543124" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Console" order="10" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" weight="0.32940447" />
+      <window_info active="true" anchor="right" id="Run" order="1" sideWeight="0.49937966" visible="true" weight="0.29104477" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32940447" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23263027" />
@@ -410,15 +478,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python37-32/Lib/shelve.py" />
-    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/browser.html" />
-    <entry file="file://$PROJECT_DIR$/Challenges/Challenge12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Challenges/Challenge13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -644,20 +703,69 @@
     <entry file="file://$PROJECT_DIR$/Basics/Input and Output/pickling.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/Functions/Blackjack.py">
+    <entry file="file://$PROJECT_DIR$/Random/BookCalc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/Projects/cards/back.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/Projects/Blackjack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/Projects/import_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/scope">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <element signature="e#163#898#0" expanded="true" />
+            <element signature="e#349#455#0" expanded="true" />
+            <element signature="e#480#748#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random/BookCalc.py">
+    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/filesAndDirectories.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="47" />
+        <state relative-caret-position="128">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/Modules and Functions/spam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/OOP/oop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.IdeaIC2018.3/system/python_stubs/-1338941227/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="1066" column="8" selection-start-line="1066" selection-start-column="8" selection-end-line="1066" selection-end-column="8" />
+          <folding>
+            <element signature="e#37478#37517#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

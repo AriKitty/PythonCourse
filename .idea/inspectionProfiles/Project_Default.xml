@@ -6,6 +6,7 @@
         <list>
           <option value="turtle.*" />
           <option value="Tkinter" />
+          <option value="Blackjack" />
         </list>
       </option>
     </inspection_tool>
